@@ -1,1 +1,1 @@
-# OnlineCodeSubmissions
+My code submissions to few of the popular code practice websites. Mostly on **data structure and algorithms**
